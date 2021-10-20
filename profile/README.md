@@ -1,4 +1,4 @@
-<p align='center'>
+```
                                     -.            
                   `-/+osso+/-`      /:            
                 -oyhhysoosyhhy/  :::o+::-         
@@ -12,7 +12,7 @@
                -:/so:-```.-/oyso.                 
                  -+syyyyyyyys/-                   
                     `.-::-.`                      
-</p>
+```
 
 <p align='center'>
 OPLUS DIGITAL © OPLUS.AE
